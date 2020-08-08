@@ -18,3 +18,7 @@ h1 {
 h3 {
   color: black;
 }
+
+img {
+  border-radius: 50%;
+}
